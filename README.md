@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+Hello world
+
+Hi there j here! Im into C++, C#, and Python. Doing game mods and development.
